@@ -1,6 +1,5 @@
 # Random notes
 
-
 ## Encrypt home directory
 
 ```
